@@ -1,0 +1,9 @@
+D:\Projects\Scheduler-Boilerplate\UnknownScheduler\bin\Debug\UnknownScheduler.exe.config
+D:\Projects\Scheduler-Boilerplate\UnknownScheduler\bin\Debug\UnknownScheduler.exe
+D:\Projects\Scheduler-Boilerplate\UnknownScheduler\bin\Debug\UnknownScheduler.pdb
+D:\Projects\Scheduler-Boilerplate\UnknownScheduler\obj\Debug\UnknownScheduler.exe
+D:\Projects\Scheduler-Boilerplate\UnknownScheduler\obj\Debug\UnknownScheduler.pdb
+D:\Projects\Scheduler-Boilerplate\UnknownScheduler\obj\Debug\UnknownScheduler.csprojResolveAssemblyReference.cache
+D:\Projects\Win-Service-Boilerplate\UnknownScheduler\bin\Debug\UnknownScheduler.exe.config
+D:\Projects\Win-Service-Boilerplate\UnknownScheduler\obj\Debug\UnknownScheduler.exe
+D:\Projects\Win-Service-Boilerplate\UnknownScheduler\obj\Debug\UnknownScheduler.pdb
